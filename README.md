@@ -1,0 +1,2 @@
+# blog
+AI blog
